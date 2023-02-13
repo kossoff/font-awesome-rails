@@ -2,11 +2,11 @@
 require File.expand_path('../lib/font-awesome-rails/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["bokmann"]
-  gem.email         = ["dbock@codesherpas.com"]
+  gem.authors       = ["bokmann", "kossoff"]
+  gem.email         = ["dbock@codesherpas.com", "off.koss@gmail.com"]
   gem.description   = "font-awesome-rails provides the Font-Awesome web fonts and stylesheets as a Rails engine for use with the asset pipeline."
   gem.summary       = "an asset gemification of the font-awesome icon font library"
-  gem.homepage      = "https://github.com/bokmann/font-awesome-rails"
+  gem.homepage      = "https://github.com/kossoff/font-awesome-rails"
   gem.licenses      = ["MIT", "SIL Open Font License"]
 
   gem.files         = `git ls-files -- {app,bin,lib,test,spec}/* {LICENSE*,Rakefile,README*}`.split("\n")

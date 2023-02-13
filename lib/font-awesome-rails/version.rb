@@ -1,6 +1,6 @@
 module FontAwesome
   module Rails
-    FA_VERSION = "6.1.1"
-    VERSION = "6.1.1"
+    FA_VERSION = "6.3.0"
+    VERSION = "6.3.0"
   end
 end
