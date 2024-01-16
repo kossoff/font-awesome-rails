@@ -2,6 +2,8 @@
 
 | Version | FontAwesome SHA1 | Notes / Other additions                                                                         |
 |---------|------------------|-------------------------------------------------------------------------------------------------|
+| 6.5.1.0 |                  | 6.5.1 Release, update gemspec                                                                   |
+
 | 6.3.0.0 |                  | 6.3.0 Release, update gemspec                                                                   |
 | 6.1.1.0 |                  | 6.1.1 Release                                                                                   |
 | 4.7.0.8 | `a8386aa`        | added Rails 7.0 support                                                                         |
